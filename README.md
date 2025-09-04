@@ -7,6 +7,9 @@ It analyzes patients, encounters, conditions, and immunizations to extract meani
 
 ## Project Structure
 
+**Database:** PostgreSQL  
+**Editor/Tool:** pgAdmin 4 
+
 healthcare-sql-analytics
 
 - patients             # SQL queries and CSV outputs related to patients
