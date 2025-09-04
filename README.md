@@ -29,7 +29,7 @@ healthcare-sql-analytics
 ## How to Use
 
 1. Clone the repository or download the files.
-2. Load the [Synthea synthetic healthcare dataset](https://synthetichealth.github.io/synthea/) into PostgreSQL.
+2. Load the [100 Sample Synthetic Patient Records, CSV: 7 MB](https://synthea.mitre.org/downloads) into PostgreSQL.
 3. Run queries from the .sql files.
 4. Explore results in the .csv files.
 
